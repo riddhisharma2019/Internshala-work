@@ -1,0 +1,32 @@
+footer{
+    background-color: #000;
+    color: grey;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    padding: 10px 0;
+   
+
+}
+h2{
+
+    padding-top: 100px;
+    margin-top: 50px;
+    font-size: bold;
+
+}
+h4{
+    margin-top: 100px;
+}
+
+table{
+
+    margin-top: 100px;
+}
+
+.jumbotron{
+
+    margin-top: 100px;
+}
